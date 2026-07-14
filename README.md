@@ -17,9 +17,9 @@
 🚀 About Me
 
 - 💻 I build responsive, accessible, and performant web applications
-- 🌱 Currently exploring **[technology you're learning]**
+- 🌱 Currently exploring **DSA, SQL, AI & System Design**
 - 🛠️ I care about clean code, good UX, and shipping things that actually work
-- 📫 Reach me at **you@example.com**
+- 📫 Reach me at **vaishnaviyadav6267@gmail.com**
 
 <br/>
 
